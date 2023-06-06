@@ -19,7 +19,7 @@
 ![mobile](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20Up(mobile%20view).png)
 
 ### Project description
-Project: Stack Newbie Lite  
+Project: Stack Newbie a.k.a ## Stack Overflow Lite  
 
 ***User***
 * Users can create an account and log in.  
