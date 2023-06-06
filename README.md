@@ -8,6 +8,8 @@
     go-to destination for all things code-related. 
 
 ***Figma Design Previews***
+![home page](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Home%20Page.png)
+
 ![sign up](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20Up%20Page.png)
 
 ![sign in](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20In%20Page.png)
