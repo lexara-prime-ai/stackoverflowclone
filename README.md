@@ -1,16 +1,22 @@
 ## Stack Newbie(***Stack Overflow Clone***)
-    Stack Newbie is a platform designed to connect developers worldwide. It provides a space for individuals to ask and answer questions, share knowledge, and collaborate on coding challenges. With a user-friendly interface and a robust tagging system, users can easily search for relevant topics, find solutions to their programming queries, and engage in discussions with fellow experts. Whether you're a beginner seeking guidance or a seasoned pro looking to contribute, Stack Newbie is your go-to destination for all things code-related. 
+    Stack Newbie is a platform designed to connect developers worldwide. 
+    It provides a space for individuals to ask and answer questions, share knowledge
+    and collaborate on coding challenges. With a user-friendly interface and a robust 
+    tagging system, users can easily search for relevant topics, find solutions to their 
+    programming queries, and engage in discussions with fellow experts. Whether you're a 
+    beginner seeking guidance or a seasoned pro looking to contribute, Stack Newbie is your 
+    go-to destination for all things code-related. 
 
 ***Figma Design Previews***
-![sign up]()
+![sign up](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20Up%20Page.png)
 
-![sign in]()
+![sign in](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20In%20Page.png)
 
-![reset password]()
+![reset password](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Reset%20Password%20Page.png)
 
-![QA panel]()
+![QA panel](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/QA%20Panel.png)
 
-![mobile]()
+![mobile](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20Up(mobile%20view).png)
 
 ### Project description
 Project: Stack Newbie Lite  
@@ -49,11 +55,11 @@ Tools used:
 * Input validation. 
 * Responsive CSS.
 
-*** Node JS ***
+## ***Node JS***
 For: 
 * Authentication
 * Validation 
 * Database interaction
 * Password hashing 
 
-*** MSSQL ***
+## ***MSSQL***
