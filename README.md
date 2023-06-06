@@ -16,7 +16,7 @@
 
 ![QA panel](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/QA%20Panel.png)
 
-![mobile](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20Up(mobile%20view).png)
+![mobile](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20Up%20Page(mobile%20view).png)
 
 ### Project description
 Project: Stack Newbie a.k.a ***Stack Overflow Lite***
