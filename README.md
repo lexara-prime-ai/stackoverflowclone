@@ -6,8 +6,13 @@
     programming queries, and engage in discussions with fellow experts. Whether you're a 
     beginner seeking guidance or a seasoned pro looking to contribute, Stack Newbie is your 
     go-to destination for all things code-related. 
+    
+# ***Preview***
+
+![preview](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Preview.png)
 
 ***Figma Design Previews***
+
 ![home page](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Home%20Page.png)
 
 ![sign up](https://github.com/projectfinalaudio/stackoverflowclone/blob/master/Sign%20Up%20Page.png)
